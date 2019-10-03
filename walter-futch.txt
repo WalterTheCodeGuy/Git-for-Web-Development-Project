@@ -1,1 +1,25 @@
 Testing Git + Github.
+
+Research and understand what a merge conflict is and how to resolve it.
+
+A merge conflict occurs when the same line in a file has several changes or if one person edits a line in a file and another person deletes that file.
+
+To resolve a merge conflict you will want to review the changes and decide if you want to keep your changes, the changes the other person made or create a new file with both changes.
+
+ Reseach the Git commands pull, rebase, merge. These commands will allow you to bring in changes that other developers push to the master branch.
+ 
+ Push - uploads all local branch commits to GitHub.
+ Rebase - This is the process of moving or combining a sequence of commits to a new base commit, another way of merging.
+ Merge - Combines bookmark's branch into current local branch.
+ 
+ Reseach the Git commands reset , revert, clean. These commands will allow you to go back and ammends previous commits you have made.
+ 
+ Reset - Restages your file but preserves its contents, undoes all commits on a file.
+ Revert - This command will create a new commit that inverses the changes specified. It is a safer alternative to git reset.
+ Clean - This command removes untracked files from your current git branch.
+ 
+ Research and set up a Graphical User Interface (GUI) Git console.
+  Done.
+ Research and setup SSH keys with Github, so that you do not need to input your username/password each time you push.
+  Done.
+ 
